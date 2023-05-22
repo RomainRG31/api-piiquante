@@ -1,6 +1,6 @@
 # Construire une API sécurisée pour une application d'avis gastronomiques
 
-![Logo de Piiquante](./Frontend/src/assets/images/logo.png)
+![Logo de Piiquante](./Frontend/src/assets/images/logo.jpg)
 
 # Compétences évaluées
 
