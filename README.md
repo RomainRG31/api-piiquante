@@ -1,6 +1,6 @@
 # Construire une API sécurisée pour une application d'avis gastronomiques
 
-![Logo de Piiquante](assets/flame.png)
+![Logo de Piiquante](./Frontend/src/assets/images/flame.png){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 # Compétences évaluées
 
@@ -22,7 +22,7 @@ Le délai est raisonnable, vous décidez donc d'accepter le projet.
 
 1 - Cloner ce repo dans votre ordinateur
 
-`git clone https://github.com/tem-ctrl/oc_p6_piiquante.git`
+`git clone https://github.com/RomainRG31/api-piiquante.git`
 
 2 - Ouvrir un terminal dans le dossier `backend` et exécuter
 
