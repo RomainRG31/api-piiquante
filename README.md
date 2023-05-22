@@ -1,11 +1,6 @@
 # Construire une API sécurisée pour une application d'avis gastronomiques
 
-<!-- <figure>
-<a href="Frontend/src/assets/images/logo.jpg"></a>
-<figcaption>Piiquante : Marque de sauces piquantes</figcaption>
-</figure> -->
-
-![Logo de Piiquante](./Frontend/src/assets/images/logo.jpg)
+![Logo de Piiquante](/Frontend/src/assets/images/logo.jpg#center)
 
 # Compétences évaluées
 
